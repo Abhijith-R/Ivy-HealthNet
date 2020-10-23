@@ -5,7 +5,12 @@ Healthcare in your palms!
   <img src="documents/Ivy-logo-1.png">
 </p>
  
-  
+ 
+## Authors
+
+* Rudresh Veerappaji (rudv@cisco.com)
+* Abhijith Ramesh Chandra (abhr@cisco.com)
+
 ## Use case / Introduction
 
 Healthcare just like any other industry is undergoing rapid digitization, and in the recent past the need for this has increased many fold due to COVID resulting in complete and partial lockdowns making it difficult for patients to get the medical care at the right time on one hand, and on the other the medical systems are overwhelmed by the increased load. There is no better time than now to leverage technologies and solutions to solve the issues of Healthcare vertical, and address areas of faster diagnosis, faster access to front line medical staff and doctors. With this goal in mind, we have designed a solution that addresses some of these issues, by leveraging Cisco's collaboration and networking products by building on top of the open and programmable principles that these are built upon.
@@ -172,10 +177,6 @@ Future enhancements would include:
   4. Blockchain integration for patient & doctor data.
   5. Integration with smart wearables & fitness apps for richer & real-time data access.
 
-## Authors
-
-* Rudresh Veerappaji (rudv@cisco.com)
-* Abhijith Ramesh Chandra (abhr@cisco.com)
 
 ## License
 Provided under Cisco Sample Code License, for details see [LICENSE](https://github.com/CiscoSE/erx_project/blob/master/LICENSE)
