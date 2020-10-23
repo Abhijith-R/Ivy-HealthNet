@@ -82,7 +82,7 @@ If the illness is critical based on the prelimnary analysis of the symptoms, bot
 The following demo illustrates the above described two major workflows of a patient leveraging our solution, including patient database tracking, symptom analysis using Naive Bayes ML model, intelligent assigning of docotors/nurses, Digital prescription, secure vitals & test report exchange between patient & nurse/doctor only - of these through native modules or leveraging APIs where required to illustrate the integration of webex teams and the power of the platform to provide such a ecosystem. In the demo we are illustrating the solution using a ficticious hospital called "Medi-Plus+".
 
 
-[![Watch the video](documents/youtube-image-2.png)](https://www.youtube.com/watch?v=9e1Xk98MEgU&feature=youtu.be)
+[![Watch the video](documents/youtube-image-3.jpg)](https://www.youtube.com/watch?v=9e1Xk98MEgU&feature=youtu.be)
 
 
 The illustrations in above video are for our Ivy solution directly integrated with a fictitious hostpital's webpage for a real world scenario with full integration. You can also try this out the solution from your own webex teams app, by searching for "Ivy - Patient Help" and start with saying "Hi" and let Ivy take you through the solution workflow.
