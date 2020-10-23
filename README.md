@@ -1,4 +1,4 @@
-# Ivy - Patient Help
+# Ivy - HealthNet Help
 Healthcare in your palms!
 
 <p align="center">
