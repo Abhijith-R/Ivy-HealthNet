@@ -8,8 +8,8 @@ Healthcare in your palms!
  
 ## Authors
 
-* Rudresh Veerappaji (rudv@cisco.com)
 * Abhijith Ramesh Chandra (abhr@cisco.com)
+* Rudresh Veerappaji (rudv@cisco.com)
 
 ## Use case / Introduction
 
